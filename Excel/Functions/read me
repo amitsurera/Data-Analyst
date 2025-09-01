@@ -1,0 +1,58 @@
+1. Vlookup
+2.Vllokup + Match
+3. Index + Match
+4. Vlookup + Date
+5. Index + match
+6. Textjoin + if + text
+7. Iferror + vlookup + vlookup
+8. sum + vlookup + array
+9. textjoin If
+10. Vlookup + * + match
+11. xlookup
+12. xlookup
+13. xlookup
+14. xlookup
+15. xlookup
+16. Index + Match
+17. xlookup
+18 xlookup
+19. xvlookup + ">,<,<>, = "
+20. 19. xvlookup + ">,<,<>, = "
+21.xlookup + *
+22. xlookup (entire row)
+23. filter
+24. filter
+25. count + #
+26. Filter + and (condition)
+27. filter + and (condition)
+28. filter + or (condition)
+29. filter + not (condition)
+30. sum + filter + not (condition)
+31. sum + filter + (or + and ) (condition)
+32. sum + filter + (or + and ) (condition)
+33. sum + #
+34. index + match
+35. index + match
+36. index + match
+37. index + match + match
+38. sumifs
+39. sumifs + *
+40. sumifs
+41. sumifs
+42. countifs
+43. sumifs
+44. Averageifs
+45. sumifs, max and xlookup
+46. Averageifs
+47 Max and Large
+48. Max, Large, xlookup, index + match
+49. Maxifs and Filter
+50. Maxifs and filter
+51. Minifs and filter
+52. Drop downs 
+52. Find last Non-blank value by using (lookup + rept("zzzz") + index + match), (let ,xlookup + xlookup),( counta + index  + match)
+53. simple vlookup
+54. lookup in middle ( xlookup)
+55. two way lookup (xlookup +xlookup)
+56. Multiple conditions ( filter and condition)
+57. Multiple results ( filter )
